@@ -1,4 +1,6 @@
-# Kernel_Trick# From Straight Lines to Complex Boundaries: Understanding the SVM Kernel Trick
+# SVM Kernel Trick: Understanding the Kernel Trick
+
+## From Straight Lines to Complex Boundaries
 
 A beginner-friendly machine learning tutorial demonstrating how Support Vector Machines (SVMs) use the **Kernel Trick** to classify data that cannot be separated by a straight line.
 
@@ -17,7 +19,8 @@ This tutorial was created as part of a postgraduate Machine Learning course assi
 ## Repository Contents
 
 ```
-├── svm_kernel_tutorial.py   # Main tutorial code (all plots)
+├── Script.ipynb             # Main tutorial code (all plots)
+├── requirements.txt         # Python dependencies
 ├── README.md                # This file
 └── LICENSE                  # MIT Licence
 ```
@@ -33,22 +36,14 @@ This tutorial was created as part of a postgraduate Machine Learning course assi
 Install all dependencies with:
 
 ```bash
-pip install numpy matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 ---
 
 ## How to Run
 
-**Option 1 — Run as a script:**
-
-```bash
-python svm_kernel_tutorial.py
-```
-
-**Option 2 — Run in Jupyter Notebook:**
-
-Copy the contents of `svm_kernel_tutorial.py` into a `.ipynb` notebook, or open it directly if your environment supports `.py` notebooks (e.g. VS Code with the Jupyter extension).
+Open `Script.ipynb` in Jupyter Notebook, JupyterLab, or VS Code with the Jupyter extension, then execute the cells in order.
 
 Each section is clearly labelled and can be run independently.
 
