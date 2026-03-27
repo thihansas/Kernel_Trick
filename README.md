@@ -88,6 +88,12 @@ This project is licensed under the **MIT Licence** — see the [LICENSE](LICENSE
 
 ---
 
+## Author
+
+**Thihansa** — GitHub: [@thihansas](https://github.com/thihansas)
+
+---
+
 ## References
 
 - Cortes, C. & Vapnik, V. (1995). Support-vector networks. *Machine Learning*, 20(3), 273–297.
